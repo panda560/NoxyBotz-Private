@@ -28,18 +28,18 @@ const response = {
 	}
 }
 class config {
-	static botname = "NoxyBotz-MD";
+	static botname = "ArtaBotz-MD";
 	static server = true
 	static email = 'noxybotz13@gmail.com'
-	static instagram = 'https://instagram.com/ricxyz13'
+	static instagram = 'https://instagram.com/arrezza20'
 	static prefixs = "multi"; //set ., #, and etc if you want single prefix example: const prefixs = '.'
 	static session = "session"; //default empty
 	static ownername = "E r i c D e v ?";
 	static self = false;
 	static packInfo = { packname: "@EicDev", author: "NoxyBotz-MD" };
-	static namebot = "NoxyBotz-MD";
+	static namebot = "ArtaBotz-MD";
 	static limit = 15
-	static owner = ["6281517621088@s.whatsapp.net", "6281314751439@s.whatsapp.net"];
+	static owner = ["6281959293465@s.whatsapp.net", "6281273677810@s.whatsapp.net"];
 	static line = {
 		owner: 'U8a37ce637bd9c801303b65564db5d48a',
 		token: '09mYp/dWJnYgNQltZ8luP29/TGhaURiNwjXfBnCCJSPjBMp2YQYA3bIA6Ag4PXJpoc2WZhKLmzcFyVIt/Jlkwo+WaPTPoc+42nu/BzW6/3xyru2yJbj+NA5dlqiL0Ys4w/p3W2XWZ4jtetl4G3rlRgdB04t89/1O/w1cDnyilFU=',
@@ -89,7 +89,7 @@ global.reload = (path) => {
 	}
 };
 //globall
-global.owner = ["6281517621088@s.whatsapp.net", "6281517621088@s.whatsapp.net", "6281314751439@s.whatsapp.net"]; //owner
+global.owner = ["6281959293465@s.whatsapp.net", "6281273677810@s.whatsapp.net", "6285609467937@s.whatsapp.net"]; //owner
 const bahasa = "id"; // en/id
 global.response = response[bahasa];
 global.users = JSON.parse(fs.readFileSync('./database/json/user.json'))
