@@ -71,7 +71,7 @@ module.exports = {
 			{
 				urlButton: {
 					displayText: "🤖 Join Group Bot",
-					url: "https://chat.whatsapp.com/E4mPMyGkTmpCdlJiVDoLp8",
+					url: "https://chat.whatsapp.com/KiTH8nDNsaQ8rnOnW601U4",
 				},
 			},
 			{
@@ -97,7 +97,7 @@ module.exports = {
 			contextInfo: {
 				externalAdReply: {
 					title: config.botname,
-					sourceUrl: `https://chat.whatsapp.com/CGMJD56YU2w4v1q5kvuyKg`,
+					sourceUrl: `https://chat.whatsapp.com/KiTH8nDNsaQ8rnOnW601U4`,
 					mediaUrl: imgurl,
 					mediaType: 1,
 					showAdAttribution: true,
