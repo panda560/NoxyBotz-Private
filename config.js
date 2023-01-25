@@ -39,7 +39,7 @@ class config {
 	static packInfo = { packname: "@EicDev", author: "NoxyBotz-MD" };
 	static namebot = "ArtaBotz-MD";
 	static limit = 15
-	static owner = ["6281959293465@s.whatsapp.net", "6281273677810@s.whatsapp.net"];
+	static owner = ["6281959293465@s.whatsapp.net", "6281273677810@s.whatsapp.net", "855389162590@s.whattsapp.net'];
 	static line = {
 		owner: 'U8a37ce637bd9c801303b65564db5d48a',
 		token: '09mYp/dWJnYgNQltZ8luP29/TGhaURiNwjXfBnCCJSPjBMp2YQYA3bIA6Ag4PXJpoc2WZhKLmzcFyVIt/Jlkwo+WaPTPoc+42nu/BzW6/3xyru2yJbj+NA5dlqiL0Ys4w/p3W2XWZ4jtetl4G3rlRgdB04t89/1O/w1cDnyilFU=',
